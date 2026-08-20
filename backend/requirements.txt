@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+# Optional — only needed for Claude Fable 5 pulse generation (set ANTHROPIC_API_KEY too).
+# The service runs fully without it.
+anthropic>=0.92

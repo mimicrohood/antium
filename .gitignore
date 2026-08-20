@@ -4,6 +4,11 @@ __pycache__/
 *.pyc
 serve.log
 
+# Backend runtime data (the growing pulse dataset) + local venvs
+backend/data/
+.venv/
+venv/
+
 # Screenshots from local verification
 hover_card.png
 hover_fixed.png
