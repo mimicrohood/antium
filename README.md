@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/rayoid-logo.png" alt="rayoid" width="220" />
+<img src="https://raw.githubusercontent.com/rayoidswarm/rayoid-swarm/main/assets/rayoid-logo.png" alt="rayoid" width="220" />
 
 # rayoid
 
