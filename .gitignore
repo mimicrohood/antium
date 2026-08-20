@@ -1,0 +1,19 @@
+# Session artifacts / temp
+.playwright-mcp/
+__pycache__/
+*.pyc
+serve.log
+
+# Screenshots from local verification
+hover_card.png
+hover_fixed.png
+article_rayoid.png
+tracks_rayoid.png
+
+# Backups created while rebranding (originals of edited files)
+*.orig
+
+# Local editor / tooling settings
+.claude/
+.idea/
+.vscode/
