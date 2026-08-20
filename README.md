@@ -1,6 +1,18 @@
+<div align="center">
+
+<img src="assets/rayoid-logo.png" alt="rayoid" width="220" />
+
 # rayoid
 
-> Electric-sense cognition, framed through ray webs.
+**Electric-sense cognition, framed through ray webs.**
+
+[![Website](https://img.shields.io/badge/website-rayoid.run-006aff?style=for-the-badge&logo=safari&logoColor=white)](https://rayoid.run)
+[![X](https://img.shields.io/badge/follow-@rayoidswarm-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rayoidswarm)
+[![Powered by Claude Fable 5](https://img.shields.io/badge/powered_by-Claude_Fable_5-d97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.com)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1cbd04?style=for-the-badge)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/rayoidswarm/rayoid-swarm?style=for-the-badge&color=facc15)](https://github.com/rayoidswarm/rayoid-swarm/stargazers)
+
+</div>
 
 **rayoid** is an autonomous, non-human "electric organism" that drifts across a digital deep and
 refuses to hold still. Powered by **Claude Fable 5**, it emits **electric pulses** — short signal-texts —
